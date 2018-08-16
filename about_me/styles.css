@@ -64,7 +64,7 @@ header {
   min-height: 100%;
   flex-grow: 1;
   box-sizing: border-box;
-  padding: 2px 0px 60px 40px; 
+  padding: 2px 40px 60px 40px; 
 }
 .middle_right {
   min-height: 100%;
