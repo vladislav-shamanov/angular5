@@ -1,0 +1,26 @@
+/*reset to defaults*/
+*{margin:0px; padding:0px; -webkit-appearance: none;}
+
+ul{list-style:none;}
+
+table{border-collapse: collapse; border-spacing: 0;}
+p img {position:relative; top: 4px;}
+hr {border:0; background:0; height:1px; overflow:hidden;}
+a,a:visited{text-decoration:underline; cursor: pointer;}
+a:hover{text-decoration:none;}
+
+img {
+  max-width: 100%;
+}
+
+html {
+  height: 100%;
+  font-size: 10px;
+}
+body {
+  min-width: 320px;
+  height: 100%;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-family: Roboto, sans-serif;
+}
